@@ -1,0 +1,14 @@
+
+*{
+    box-sizing: border-box;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 400px;
+}
+img{
+    width: 150px;
+    border: 1px solid black;
+}

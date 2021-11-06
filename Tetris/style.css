@@ -1,0 +1,40 @@
+
+.grid{
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div{
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+}
+
+.previous-grid{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.previous-shape{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.block{
+    background-color: blue;
+}
+
+.block2{
+    background-color: rebeccapurple;
+}
+
+.block3{
+    background-color: green;
+}
